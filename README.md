@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Motivated and detail-oriented Data Science student with a solid foundation in statistics, machine learning, and data analysis. Proficient in Python,<br>SQL, and data visualization tools such as Tableau, Power BI, and advance MS excel. Experienced in handling real-world datasets through academic<br>projects and personal initiatives. Eager to apply analytical skills and problem-solving abilities in a dynamic internship or entry-level role. Committed<br>to continuous learning and contributing to data-driven decision-making.<br>
+Motivated and detail-oriented Data Science student with a solid foundation in statistics, machine learning, and data analysis. Proficient in Python, SQL, and data visualization tools such as Tableau, Power BI, and advance MS excel. Experienced in handling real-world datasets through academic projects and personal initiatives. Eager to apply analytical skills and problem-solving abilities in a dynamic internship or entry-level role. Committed to continuous learning and contributing to data-driven decision-making.<br>
 
 
 ## 🌐 Socials:
